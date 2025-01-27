@@ -99,11 +99,8 @@ const educationInfo = {
       logo: require("./assets/images/sams_logo.png"),
       subHeader: "bachelor's degree  in Computer Science",
       duration: "2022 - 2026",
-      desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      desc: "",
+      descBullets: []
     }
   ]
 };
