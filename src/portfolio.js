@@ -48,8 +48,8 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "interests",
-  subTitle: "",
+  title: "What I do",
+  subTitle: "CRAZY DEVELOPER WHO WANTS TO EXPLORE THE CLOUD",
   skills: [
   ],
 
@@ -58,6 +58,22 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
+      skillName: "aws",
+      fontAwesomeClassname: "fab fa-aws"
+    },
+    {
+      skillName: "docker",
+      fontAwesomeClassname: "fab fa-docker"
+    },
+    {
+      skillName: "python",
+      fontAwesomeClassname: "fab fa-python"
+    },
+    {
+      skillName: "git",
+      fontAwesomeClassname: "fab fa-git-alt"
+    },
+    {
       skillName: "html",
       fontAwesomeClassname: "fab fa-html5"
     },
@@ -65,26 +81,9 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "css",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
-    
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
     {
       skillName: "java",
       fontAwesomeClassname: "fab fa-java"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -136,15 +135,12 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "DevOps inter",
+      role: "DevOps intern",
       company: "Orange Digital Center",
       companylogo: require("./assets/images/Orange_logo.png"),
       date: "January 2025 – february 2025",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      desc: "",
+      descBullets: []
     }
   ]
 };
