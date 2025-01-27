@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/ahmedhesham301",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
+  linkedin: "https://www.linkedin.com/in/ahmed-hesham0/",
   gmail: "ahmed.hesham.farag@gmail.com",
   //gitlab: "https://gitlab.com/saadpasta",
   facebook: "https://www.facebook.com/ahmed.hesham.farag",
@@ -163,7 +163,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://ahmeddev.net"
         }
         //  you can add extra buttons here.
       ]
