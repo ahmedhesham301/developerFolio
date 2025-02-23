@@ -88,6 +88,14 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "jenkins",
       fontAwesomeClassname: "fab fa-jenkins"
+    },
+    {
+      skillName: "terraform",
+      image: require("./assets/images/terraform_logo.png")
+    },
+    {
+      skillName: "ansbile",
+      image: require("./assets/images/ansible_logo.png")
     }
   ],
   display: true // Set false to hide this section, defaults to true
