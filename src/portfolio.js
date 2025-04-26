@@ -96,7 +96,19 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "ansbile",
       image: require("./assets/images/ansible_logo.png")
-    }
+    },
+    {
+      skillName: "goalng",
+      fontAwesomeClassname: "fab fa-golang"
+    },
+    {
+      skillName: "goalng",
+      fontAwesomeClassname: "fab fa-golang"
+    },
+    {
+      skillName: "kubernetes",
+      image: require("./assets/images/kubernetes.png")
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
